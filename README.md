@@ -10,5 +10,5 @@ Prevents you from overpaying fees:
 
 Calculate the absolute transaction fee:
 - displays you the estimated amount of satoshis (sats) and fiat (currently only $) as tx cost
-- lets you choose the adress format (segwit or legacy) and the amount of tx inputs and outputs (1 or 2 which fits 99% of tx cases)
+- lets you choose the adress format (segwit or legacy) and the amount of amount inputs and outputs (1 or 2 which fits 99% of tx cases)
 
