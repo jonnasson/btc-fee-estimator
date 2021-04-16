@@ -96,5 +96,4 @@ usdsize = calcsize.to_f / 100000000 * price
 
 # actual fee estimation output
 puts "\n"
-
 puts "Your estimated fee is #{calcsize} sats or $#{usdsize.round(2)}"
