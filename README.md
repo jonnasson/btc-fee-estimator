@@ -6,6 +6,9 @@ Get live fee (sat/vB) to get included in..
 - wait 60 minutes
 
 Prevents you from overpaying fees:
-- useful when you want to send some bitcoin but don't care about the time of the first transaction confirmation.
-- also calculates the absolute transaction fee in satoshis and fiat (currently only $)
+- useful when you want to send some bitcoin but don't care about the time of the first transaction confirmation
+
+Calculate the absolute transaction fee:
+- displays you the estimated amount of satoshis (sats) and fiat (currently only $) as tx cost
+- lets you choose the adress format (segwit or legacy) and the amount of tx inputs and outputs (1 or 2 which fits 99% of tx cases)
 
