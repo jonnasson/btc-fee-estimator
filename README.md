@@ -1,4 +1,4 @@
-btc-fee-estimator
+BTC-fee-estimator v0.1
 
 Get live fee (sat/vB) to get included in..
 - the next block
